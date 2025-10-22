@@ -16,6 +16,9 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 | August 28th 2025 – September 1st 2025 |      YuzuUSD stablecoin     |                                                     Private                                               |
 | September 3rd 2025 – September 5th 2025 |      Hyperbeat     |                                                     Private                                               |
 | September 7rd 2025 – September 10th 2025 |      Ostium     |                                                     Private                                               |
+|  |      Ostium 2     |                                                     Private                                               |
+|  |      stHYPE     |                                                     Private                                               |
+|  |      BOB     |                                                     Private                                               |
 
 
 
