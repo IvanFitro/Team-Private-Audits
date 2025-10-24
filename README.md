@@ -24,4 +24,4 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 # 🔒 Solo Private Audit Reports
 |                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
 | :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
-|   April 29th 2025  |         BitChill         |                                                     [Report]() 
+|   April 29th 2025  |         BitChill         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Pirvate%20Reports/BitChill.pdf) 
