@@ -19,6 +19,8 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 |  |      Ostium 2     |                                                     Private                                               |
 |  |      stHYPE     |                                                     Private                                               |
 |  |      BOB     |                                                     Private                                               |
+|  |      Liquid     |                                                     Private                                               |
+
 
 
 # 🔒 Solo Private Audit Reports
