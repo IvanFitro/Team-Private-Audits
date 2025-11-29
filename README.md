@@ -20,6 +20,10 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 |  |      stHYPE     |                                                     Private                                               |
 |  |      BOB     |                                                     Private                                               |
 |  |      Liquid     |                                                     Private                                               |
+|  |      Sekai Finance     |                                                     Private                                               |
+|  |      Reya     |                                                     Private                                               |
+
+
 
 
 
