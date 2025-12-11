@@ -22,6 +22,8 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 |  |      Liquid     |                                                     Private                                               |
 |  |      Sekai Finance     |                                                     Private                                               |
 |  |      Reya     |                                                     Private                                               |
+|  |      DomFi     |                                                     Private                                               |
+
 
 
 
