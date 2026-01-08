@@ -21,7 +21,7 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 | October 18th 2025 – October 21st 2025 |      BOB     |                                                     Private                                               |
 | October 30th 2025 – November 5th 2025 |      Liquid     |                                                     Private                                               |
 |  |      Sekai Finance     |                                                     Private                                               |
-|  |      Reya     |                                                     Private                                               |
+| November 29th 2025 - December 2nd 2025 |      Reya     |                                                     Private                                               |
 |  |      DomFi     |                                                     Private                                               |
 
 
