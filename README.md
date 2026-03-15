@@ -20,10 +20,10 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 | October 13th 2025 – October 16th 2025 |      stHYPE     |                                                     [Report](http://github.com/pashov/audits/blob/master/team/pdf/stHYPE-security-review_2025-10-13.pdf)                                               |
 | October 18th 2025 – October 21st 2025 |      BOB     |                                                     Private                                               |
 | October 30th 2025 – November 5th 2025 |      Liquid     |                                                     Private                                               |
-|  |      Sekai Finance     |                                                     Private                                               |
+| November 7th 2025 - November 26th 2025 |      Sekai Finance     |                                                     Private                                               |
 | November 29th 2025 - December 2nd 2025 |      Reya     |                                                     Private                                               |
-|  |      DomFi     |                                                     Private                                               |
-|  |      YuzuUSD     |                                                     Private                                               |
+| December 7th 2025 - January 3rd 2026 |      DomFi     |                                                     Private                                               |
+| January 14th 2025 - January 18th 2026 |      YuzuUSD     |                                                     Private                                               |
 
 
 
