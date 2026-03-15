@@ -23,7 +23,7 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 | November 7th 2025 - November 26th 2025 |      Sekai Finance     |                                                     Private                                               |
 | November 29th 2025 - December 2nd 2025 |      Reya     |                                                     Private                                               |
 | December 7th 2025 - January 3rd 2026 |      DomFi     |                                                     Private                                               |
-| January 14th 2025 - January 18th 2026 |      YuzuUSD     |                                                     Private                                               |
+| January 14th 2026 - January 18th 2026 |      YuzuUSD     |                                                     Private                                               |
 
 
 
