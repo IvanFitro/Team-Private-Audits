@@ -1,6 +1,6 @@
 # 🔒 Team Private Audit Reports
 
-This repo tracks private audits conducted with **Pashov Audit Group**.
+This repo tracks private audits conducted with different audit firms.
 
 ---
 
@@ -27,7 +27,11 @@ This repo tracks private audits conducted with **Pashov Audit Group**.
 
 
 
+## Burrasec
 
+|                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
+| :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
+|   March 25th 2026 – March 30th 2026   |         TAO Hyperliquid Bridge         |                                                     
 
 
 
