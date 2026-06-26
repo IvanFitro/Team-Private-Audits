@@ -34,6 +34,12 @@ This repo tracks private audits conducted with different audit firms.
 |   March 25th 2026 – March 30th 2026   |         TAO Hyperliquid Bridge         |                                                     
 
 
+## AdevarLabs
+
+|                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
+| :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
+|   May 26th 2026 – June 1st 2026   |         Crafts (Rust)         |                                                     
+
 
 # 🔒 Solo Private Audit Reports
 |                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
