@@ -46,6 +46,6 @@ This repo tracks private audits conducted with different audit firms.
 | :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
 |   April 29th 2025  |         BitChill         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Private%20Reports%20/BitChill.pdf) 
 |   November 10th 2025  |         BitChill DCA-Out         |       | 
-|   August 5th 2026  |         BitChill         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Private%20Reports%20/FlipKey.pdf) 
+|   August 5th 2026  |         FlipKey         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Private%20Reports%20/FlipKey.pdf) 
 
 
