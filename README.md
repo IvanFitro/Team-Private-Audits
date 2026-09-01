@@ -24,6 +24,14 @@ This repo tracks private audits conducted with different audit firms.
 | November 29th 2025 - December 2nd 2025 |      Reya     |                                                     Private                                               |
 | December 7th 2025 - January 3rd 2026 |      DomFi     |                                                     Private                                               |
 | January 14th 2026 - January 18th 2026 |      YuzuUSD     |                                                     Private                                               |
+| June 13th 2026 - June 16th 2026 |      Layer3     |                                                     Private                                               |
+| August 16th 2026 - August 18th 2026 |      Paxos Labs2     |                                                     Private                                               |
+| August 26th 2026 - August 28th 2026 |      Paxos CCIP     |                                                     Private                                               |
+| August 31th 2026 - September 9th 2026 |      Reserve Protocol     |                                                     Private                                               |
+
+
+
+
 
 
 
