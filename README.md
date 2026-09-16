@@ -15,7 +15,7 @@ This repo tracks private audits conducted with different audit firms.
 |   August 7th 2025 – August 8th 2025   | Memecoin Prediction Markets | [Report](https://github.com/pashov/audits/blob/master/team/pdf/MCP-security-review_2025-08-07.pdf) |
 | August 28th 2025 – September 1st 2025 |      YuzuUSD stablecoin     |                                                     Private                                               |
 | September 3rd 2025 – September 5th 2025 |      Hyperbeat     |                                                     [Report](https://github.com/pashov/audits/blob/master/team/pdf/YuzuUSD-security-review_2025-08-28.pdf)                                               |
-| September 7rd 2025 – September 10th 2025 |      Ostium     |                                                     Private                                               |
+| September 7th 2025 – September 10th 2025 |      Ostium     |                                                     Private                                               |
 | September 14th 2025 – October 11th 2025 |      Ostium 2     |                                                     Private                                               |
 | October 13th 2025 – October 16th 2025 |      stHYPE     |                                                     [Report](http://github.com/pashov/audits/blob/master/team/pdf/stHYPE-security-review_2025-10-13.pdf)                                               |
 | October 18th 2025 – October 21st 2025 |      BOB     |                                                     Private                                               |
@@ -28,6 +28,8 @@ This repo tracks private audits conducted with different audit firms.
 | August 16th 2026 - August 18th 2026 |      Paxos Labs2     |                                                     Private                                               |
 | August 26th 2026 - August 28th 2026 |      Paxos CCIP     |                                                     Private                                               |
 | August 31th 2026 - September 9th 2026 |      Reserve Protocol     |                                                     Private                                               |
+| September 10th 2026 - September 18th 2026 |      Bio     |                                                     Private                                               |
+
 
 
 
@@ -39,21 +41,21 @@ This repo tracks private audits conducted with different audit firms.
 
 |                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
 | :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
-|   March 25th 2026 – March 30th 2026   |         TAO Hyperliquid Bridge         |                                                     
+|   March 25th 2026 – March 30th 2026   |         TAO Hyperliquid Bridge         |                            Private                         
 
 
 ## AdevarLabs
 
 |                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
 | :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
-|   May 26th 2026 – June 1st 2026   |         Crafts (Rust)         |                                                     
+|   May 26th 2026 – June 1st 2026   |         Crafts (Rust)         |                                               Private      
 
 
 # 🔒 Solo Private Audit Reports
 |                📅 Date                |         🛠️ Protocol        |                                             📑 Reports                                             |
 | :-----------------------------------: | :-------------------------: | :------------------------------------------------------------------------------------------------: |
 |   April 29th 2025  |         BitChill         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Private%20Reports%20/BitChill.pdf) 
-|   November 10th 2025  |         BitChill DCA-Out         |       | 
+|   November 10th 2025  |         BitChill DCA-Out         |    Private   | 
 |   August 5th 2026  |         FlipKey         |                                                     [Report](https://github.com/IvanFitro/Team-Private-Audits/blob/master/Solo%20Private%20Reports%20/FlipKey.pdf) 
 
 
