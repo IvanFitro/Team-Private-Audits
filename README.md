@@ -29,6 +29,8 @@ This repo tracks private audits conducted with different audit firms.
 | August 26th 2026 - August 28th 2026 |      Paxos CCIP     |                                                     Private                                               |
 | August 31th 2026 - September 9th 2026 |      Reserve Protocol     |                                                     Private                                               |
 | September 10th 2026 - September 18th 2026 |      Bio     |                                                     Private                                               |
+| October 5th 2026 - October 7th 2026 |      WhatTheHook     |                                                     Private                                               |
+
 
 
 
